@@ -13,4 +13,3 @@ steps:
     image: mcr.microsoft.com/dotnet/sdk
     commands:
       - dotnet test
-f
